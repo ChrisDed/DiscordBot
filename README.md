@@ -23,6 +23,4 @@
 - In the terminal type `sudo pm2 start app.js`
 - All done!
 
-- Kristo
-
 
