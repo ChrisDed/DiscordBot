@@ -1,0 +1,13 @@
+{
+  "name": "concord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Kristo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "mongoose": "^5.3.1",
+    "node-schedule": "^1.3.0"
+  }
+}
